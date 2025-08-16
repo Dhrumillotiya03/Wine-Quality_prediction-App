@@ -1,1 +1,2 @@
 # Wine-Quality_prediction-App
+I have created an app using streamlit to predict the quality and type of wine. I have initially preprocessed the dataset of red wine and white wine, figuring out the content of different constituents in the wine and setting threshold as to what content of a constituent makes it goo and bad and benchmarked the model (random forest) against different models like regression, SVM Classifier and showed its superiority
